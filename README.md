@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vickykumar07101994
+- 👋 Hi, I’m @Vickykumar
 - 👀 I’m interested in ...CODING
 - 🌱 I’m currently learning HPCAP(HIGH PERFORMANCE COMPUTING  APPLICATION PROGRAMING)
 - 💞️ I’m looking to collaborate on WEB DEVELOPER..)
